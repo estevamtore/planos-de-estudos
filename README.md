@@ -17,3 +17,4 @@ Tarefa de ajustes da página já existente -Chiara Caffe-:
   - Ajuste de CSS;
   - Ajuste de area de links;
   - Adição e edição de seção de cabeçalho;
+  - Logar em diferente loja, Clonar -> editar -> upar tema já existente no git e no Shopify.
